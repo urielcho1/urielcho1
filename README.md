@@ -2,7 +2,7 @@ hi  there
 
 :computer: Ingeniero  en Telecomunicaciones  
 :pencil: Generador de contenido 
-: oncoming_automobile: Fan de los 2JZ, futsala y routers  
+:oncoming_automobile: Fan de los 2JZ, futsala y routers  
 :family: ¡ 2 gatos y una perra!
 
 ### Vias de contacto 
