@@ -2,9 +2,8 @@ hi  there
 
 :computer: Ingeniero  en Telecomunicaciones  
 :pencil: Generador de contenido 
-:eyeglasses: Geek empedernido (¿aún se usa geek?) 
-: oncoming_automobile: Fan de los 2JZ, carreras y simuladores 
-:family: ¡El inge más feliz del mundo!
+: oncoming_automobile: Fan de los 2JZ, futsala y routers  
+:family: ¡ 2 gatos y una perra!
 
 ### Vias de contacto 
 
