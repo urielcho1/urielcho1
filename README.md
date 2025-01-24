@@ -1,16 +1,15 @@
-## Hi there 👋
+hi  there 
 
-<!--
-**urielcho1/urielcho1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: Ingeniero  en Telecomunicaciones  
+:pencil: Generador de contenido 
+:eyeglasses: Geek empedernido (¿aún se usa geek?) 
+: oncoming_automobile: Fan de los 2JZ, carreras y simuladores 
+:family: ¡El inge más feliz del mundo!
 
-Here are some ideas to get you started:
+### Vias de contacto 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fwww.linkedin.com%2Fin%2Furiel-perez-hernandez-2217961b7%2F)
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/urielcho1/urielcho1)
